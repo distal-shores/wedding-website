@@ -82,6 +82,12 @@
     {% endfor %}
   {% endif %}
 
+  {% if site.ext-css %}
+    {% for css in site.ext-css %}
+      {% include ext-css.html css=css %}
+    {% endfor %}
+  {% endif %}
+
   {% if page.ext-css %}
     {% for css in page.ext-css %}
       {% include ext-css.html css=css %}

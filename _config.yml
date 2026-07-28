@@ -10,29 +10,29 @@
 ############################
 
 # Name of website
-title: My website
+title: Zoë & Sam Get Married 2026
 
 # Your name to show in the footer
-author: Some Person
+author: Sam Coll & Zoë Gallagher
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutus"
+  FAQ: "faq"
+  Schedule: "schedule"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
 ################
 # --- Logo --- #
 ################
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/z_s.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -117,7 +117,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: true
@@ -138,15 +138,15 @@ navbar-var-length: false
 
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
+link-col: "#8c755d"
+hover-col: "#835627"
+navbar-col: "#fbf5ef"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
+footer-col: "#fbf5ef"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#835627"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -159,8 +159,12 @@ footer-hover-col: "#0085A1"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/custom-styles.css"
+
+# External stylesheets to include in the <head> on every page
+ext-css:
+  - "https://use.typekit.net/zvt3qpm.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
@@ -302,4 +306,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
