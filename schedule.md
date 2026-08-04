@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-subtitle: Where and when to be to come as you are
+subtitle: The wheres and the whens
 ---
 
 | When?*         | What's happening?              | Notes                                                                                                                        |
