@@ -23,9 +23,6 @@ navbar-links:
   About Us: "aboutus"
   FAQ: "faq"
   Schedule: "schedule"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
 ################
 # --- Logo --- #
 ################
