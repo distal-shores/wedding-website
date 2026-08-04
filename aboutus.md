@@ -20,6 +20,10 @@ Fortunately, she was into that sort of bull💩, and we got to talking pretty qu
 
 The first few months we dated were helped a lot by our shared, weird schedules. I rehearsed with my band into the late hours two or three times a week, and Zoë taught night classes. That meant that we were both "night people," and we would have dinner together at ~10pm on a Tuesday. (Hey, we still do this! Once a night 🦉 always a night 🦉).
 
+Not too long after we met, it was time for a global pandemic. You know the story. We were one of those couples, choosing to "bubble up" with each other, which led pretty quickly to us just moving in together. You learn pretty quickly how compatible you are with someone when you literally are not allowed to hang out with anyone else. I wouldn't consider us "lucky" for that experience, but it was certainly unique, as far as courtships go in the broad swath of human history.
+
+A lot of time has passed between then and now, but we still share the same easy conversation style, looping in and out through as many subjects as we can think of. It truly never gets old weaving Zoë's formidable intellect and curiosity through the loophole of my own experience of the world. I'm so thankful to have found someone who I feel utterly at ease with, who appreciates my best qualities while tolerating my worst so patiently, who understands me without assumption. Our marriage feels as natural as all the moments together that have preceded it. ❤️
+
 <p style="text-align: center;">
     <img src="/assets/img/sam_zoe_boat.jpg" alt="Sharing a laugh at Zoë's 40th" width="400">
 </p>
