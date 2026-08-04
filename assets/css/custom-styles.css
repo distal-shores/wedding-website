@@ -1,10 +1,31 @@
 :root {
-  --body-font: "begaz", sans-serif;
   --header-font: "vatican", sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #8c755d;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-nav .nav-link,
+.navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item,
+footer .copyright,
+footer .footer-custom-content,
+.post-preview a,
+.post-preview .post-subtitle,
+.blog-tags,
+#full-tags-list,
+.intro-header .page-heading .page-subheading,
+.intro-header .post-heading .post-subheading,
+.intro-header.big-img .page-heading .page-subheading,
+.intro-header.big-img .post-heading .post-subheading,
+.intro-header.big-img .img-desc,
+.pagination .page-item .page-link,
+#beautifuljekyll-search-overlay {
+  font-weight: 700;
+  font-style: italic;
 }
 
 .navbar-custom .navbar-nav .nav-link,
