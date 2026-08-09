@@ -25,7 +25,7 @@ Nanoose is about halfway between Parksville and Nanaimo, so hotels in either loc
 
 ### Will there be a shuttle from the venue? {#will-there-be-a-shuttle-from-the-venue}
 
-Since we'll have guests staying in a mix of locales, it's not practical for us to organize a shuttle (we did look into it!) There is however regular taxi service from Nanoose to any location in Parksville or Nanaimo (trip cost between $40-50). There will also be a fair number of designated drivers heading in all directions, so let us know if you need a carpool and we will do our best to link you up with someone.
+We are still working on this but we are hoping to provide at least a couple of shuttle trips from the venue back to Parksville hotel spots.
 
 ### What's the dress code? {#whats-the-dress-code}
 
@@ -57,7 +57,7 @@ There will be a mix of beer, wine, and spirits on offer (as well as a couple of 
 
 ### I have a dietary preference or restriction, how should I communicate it to you? {#i-have-a-dietary-preference-or-restriction-how-should-i-communicate-it-to-you}
 
-When you followed the RSVP link on the wedding invite (the one you just received, not the save the date that went out in June) there should have been an option to send us information about your dietary needs. 
+When you followed the RSVP link on the wedding invite (the one you just received, not the save the date that went out in May) there should have been an option to send us information about your dietary needs. 
 
 If you already RSVP'd and weren't able to submit this information, just send us an email to samcoll@gmail.com or zgal20@gmail.com and we'll make sure your requirements are noted!
 
